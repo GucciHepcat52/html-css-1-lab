@@ -1,0 +1,46 @@
+body {
+  background-color: bisque;
+  font-family: "Libre Baskerville", serif;
+}
+
+h1 {
+  background-color: rgb(186, 47, 44);
+  color: azure;
+  text-align: center;
+  padding: 15px;
+  font-size: 48px;
+}
+
+.intro-img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.introduction {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 200px;
+  padding-right: 200px;
+  font-size: large;
+  font-weight: bold;
+}
+
+.profession-name {
+  text-align: center;
+  padding-left: 600px;
+  padding-right: 600px;
+}
+
+.profession-description {
+  padding-left: 600px;
+  padding-right: 600px;
+}
+
+.profession-description img {
+  float: left;
+  padding-right: 50px;
+  margin-bottom: 50px;
+}
